@@ -4,6 +4,10 @@ body {
     background-color:lightseagreen;
 }
 
+#data_bg {
+  background-color: thistle;
+}
+
 .navbar-brand{
   font-size: 25px;
   font-style: italic;
@@ -41,6 +45,12 @@ marquee{
   font-size: 20px;
 }
 
+#down2 {
+  padding-left: 700px;
+  height: 30px;
+  font-size: 20px;
+}
+
 #right1 {
   font-size: 30px;
 }
@@ -73,3 +83,4 @@ h6{
 
   float: right;
 }
+
