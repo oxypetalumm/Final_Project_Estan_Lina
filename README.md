@@ -9,6 +9,7 @@ The contributors to this project has been Elstan and Lina.
 **Background information:**
 
 Many of us probably have noticed, since last year, California housing prices have been rocketing. Meanwhile, home sales have been strong. According to California Association of Realtors (C.A.R)’s data, as of April 2021,
+
 •	Year 2021 home sales increased 65% comparing to 2020,
 •	Year-to-date until April home sales increased 26%,
 •	April 2021 single-family-home sales totaled over 450thousand,
@@ -16,6 +17,7 @@ Many of us probably have noticed, since last year, California housing prices hav
 •	San Francisco Bay Area has the highest home sales increase. Its year-over-year home sales increased 101%
 
 According to Gallup, 
+
 •	53% of Americans believe now is a good time to buy a home
 •	71% of Americans believe that home prices are going to increase over the next year in their local market.
 
@@ -39,7 +41,7 @@ Here’s the ocean proximity’s correlation with house value:
 
 ## Data Analysis
  
-** Correlation Analysis: **
+**Correlation Analysis:**
  
 **House Prices vs. Ocean Proximity**
 We plot the data into a Tableau map. We find that while the most expensive can be spotted in different areas, however, these most expensive houses concentrate near bay, followed by near ocean and then <1H ocean. The least expensive houses are in inland areas.
