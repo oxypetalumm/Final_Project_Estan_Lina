@@ -64,3 +64,9 @@ We conclude that house prices have strong correlation with ocean proximity and h
 We use our data to test and train different machine learning models. These models include Linear Regression, Decision Tree, and Random Forest.
 After comparing the different modules, we figure that Random Forest is much better than the Linear Regression and Decision Tree. We assume the Random Forest model is the best for this Machine Learning Model. 
 
+## Technologies
+Our project is created with:
+Pandas 
+HTML/CSS/Bootstrap
+Tableau
+Scikit Learn 
